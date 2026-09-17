@@ -1,5 +1,7 @@
 # finops-sre-agent-pack
 
+[![Install to Azure SRE Agent](https://img.shields.io/badge/Install-Azure%20SRE%20Agent-0078D4?logo=microsoftazure&logoColor=white)](https://tomkerkhove.github.io/azure-sre-agent-plugin-installer/?repo=nirmash%2Ffinops-sre-agent-pack)
+
 FinOps capabilities for [Azure SRE Agent](https://azure.microsoft.com/en-us/products/sre-agent),
 packaged as **skills + agents** — not as changes to the SRE Agent product. The pack and its agent use
 read-only Azure tools. Budget planning can produce a governed shell script for a human to review,
